@@ -1,10 +1,10 @@
-# What is GSD-DE?
+# What is GSD?
 
-**GSD-DE** stands for "Get Stuff Done – Delegate and Execute." It is a comprehensive AI-powered toolchain and automation layer designed to bridge the gap between government innovation ideas and deployed applications.
+**GSD** stands for "Government Special Delivery." It is a comprehensive AI-powered toolchain and automation layer designed to bridge the gap between government innovation ideas and deployed applications.
 
 ## Core Philosophy
 
-GSD-DE operates on a fundamental principle: **Visual Flexibility with Backend Rigidity**
+GSD operates on a fundamental principle: **Visual Flexibility with Backend Rigidity**
 
 | Layer | Approach | Rationale |
 |-------|----------|-----------|

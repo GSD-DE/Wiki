@@ -1,10 +1,10 @@
-# GSD-DE Wiki
+# GSD Wiki
 
-Welcome to the **GSD-DE (Get Stuff Done – Delegate and Execute)** Wiki. This comprehensive documentation covers everything from system overview to deployment strategies for Alberta's government innovation task management system.
+Welcome to the **GSD (Government Special Delivery)** Wiki. This comprehensive documentation covers everything from system overview to deployment strategies for Alberta's government innovation task management system.
 
-## 🎯 What is GSD-DE?
+## 🎯 What is GSD?
 
-GSD-DE is an AI-powered task management system designed specifically for Alberta's government innovation teams. It transforms how we go from idea to deployed solution by leveraging artificial intelligence for triage, automated scaffolding, and deployment pipeline integration.
+GSD is an AI-powered task management system designed specifically for Alberta's government innovation teams. It transforms how we go from idea to deployed solution by leveraging artificial intelligence for triage, automated scaffolding, and deployment pipeline integration.
 
 ## 📚 Documentation Structure
 
@@ -52,16 +52,17 @@ GSD-DE is an AI-powered task management system designed specifically for Alberta
 
 ## 🚀 Quick Start
 
-1. **New to GSD-DE?** Start with [Project Overview](01-overview/index.md)
+1. **New to GSD?** Start with [Project Overview](01-overview/index.md)
 2. **Need to use the system?** Check out [User Guides](03-user-guides/index.md)
 3. **Want to develop?** Head to [Development Setup](04-development/index.md)
 4. **Looking for templates?** Browse [Templates & Prompts](05-templates-prompts/index.md)
+5. **Just want to code safely?** Read [I Don't Care Just Tell Me What To Do](JUST-TELL-ME-WHAT-TO-DO.md)
 
 ## 🎵 The Story Behind GSD-DE
 
 > *"We keep building houses to 90% completion, but stop before putting the floorboards on. We have this neighborhood full of houses that are like 90 percent complete and they just need the floorboards on them but we just keep building new houses instead."* — Zoran
 
-GSD-DE was born from recognizing this pattern in government innovation: excellent prototypes that never reach deployment. This system bridges that gap.
+GSD was born from recognizing this pattern in government innovation: excellent prototypes that never reach deployment. This system bridges that gap.
 
 ## 🏛️ Built for Government
 
@@ -69,14 +70,6 @@ GSD-DE was born from recognizing this pattern in government innovation: excellen
 - **Azure Native**: Designed for Alberta's Azure infrastructure
 - **SSO Integration**: Single sign-on ready
 - **Audit Ready**: Full compliance tracking and documentation
-
-## 📊 Current Impact
-
-- **85%** Ideas Successfully Implemented
-- **48 hours** Average Response Time  
-- **2.5K+** Ideas Submitted to Date
-- **92%** User Satisfaction Rate
-- **$15M+** Estimated Savings
 
 ---
 

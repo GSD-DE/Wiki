@@ -1,10 +1,10 @@
-# Getting Started with GSD-DE
+# Getting Started with GSD
 
-Welcome to GSD-DE (Get Stuff Done – Delegate and Execute)! This guide will help you understand the system and start turning your ideas into deployed government applications.
+Welcome to GSD (Government Special Delivery)! This guide will help you understand the system and start turning your ideas into deployed government applications.
 
-## What is GSD-DE?
+## What is GSD?
 
-GSD-DE is Alberta's AI-powered innovation platform that transforms government ideas into deployed applications. It solves the "90% problem" where great prototypes never reach citizens by providing:
+GSD is Alberta's AI-powered innovation platform that transforms government ideas into deployed applications. It solves the "90% problem" where great prototypes never reach citizens by providing:
 
 - **AI-Powered Assessment**: Intelligent evaluation of your ideas
 - **Automated Scaffolding**: GitHub repositories with deployment-ready code
